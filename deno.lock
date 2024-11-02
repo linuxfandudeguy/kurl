@@ -1,0 +1,17 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:minimist@*": "1.2.8",
+    "npm:minimist@^1.2.8": "1.2.8"
+  },
+  "npm": {
+    "minimist@1.2.8": {
+      "integrity": "sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:minimist@^1.2.8"
+    ]
+  }
+}
