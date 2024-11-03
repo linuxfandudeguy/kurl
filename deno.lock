@@ -1,5 +1,5 @@
 {
-  "version": "4",
+  "version": "5",
   "specifiers": {
     "npm:minimist@*": "1.2.8",
     "npm:minimist@^1.2.8": "1.2.8"
